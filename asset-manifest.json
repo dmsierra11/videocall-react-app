@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/videocall-react-app/static/css/main.97b87d39.chunk.css",
+    "main.js": "/videocall-react-app/static/js/main.aa37595f.chunk.js",
+    "main.js.map": "/videocall-react-app/static/js/main.aa37595f.chunk.js.map",
+    "runtime~main.js": "/videocall-react-app/static/js/runtime~main.baa94e77.js",
+    "runtime~main.js.map": "/videocall-react-app/static/js/runtime~main.baa94e77.js.map",
+    "static/css/2.1d984fbf.chunk.css": "/videocall-react-app/static/css/2.1d984fbf.chunk.css",
+    "static/js/2.8bf0e9e4.chunk.js": "/videocall-react-app/static/js/2.8bf0e9e4.chunk.js",
+    "static/js/2.8bf0e9e4.chunk.js.map": "/videocall-react-app/static/js/2.8bf0e9e4.chunk.js.map",
+    "index.html": "/videocall-react-app/index.html",
+    "precache-manifest.3126dd48712d2ec46620b0db027ee14a.js": "/videocall-react-app/precache-manifest.3126dd48712d2ec46620b0db027ee14a.js",
+    "service-worker.js": "/videocall-react-app/service-worker.js",
+    "static/css/2.1d984fbf.chunk.css.map": "/videocall-react-app/static/css/2.1d984fbf.chunk.css.map",
+    "static/css/main.97b87d39.chunk.css.map": "/videocall-react-app/static/css/main.97b87d39.chunk.css.map",
+    "static/media/index.css": "/videocall-react-app/static/media/ag-index-background.2ab67eec.png",
+    "static/media/ag-logo.png": "/videocall-react-app/static/media/ag-logo.c9b3e104.png",
+    "static/media/icons.css": "/videocall-react-app/static/media/icons.efe053d4.ttf"
+  }
+}

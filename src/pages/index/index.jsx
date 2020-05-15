@@ -378,7 +378,6 @@ const App = () => {
 
   return call ? (
     <Jutsu
-      domain='https://cranky-brown-5ddc4a.netlify.app'
       roomName={room}
       displayName={name}
       password={password}
